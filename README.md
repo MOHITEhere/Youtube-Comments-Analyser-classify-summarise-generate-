@@ -198,5 +198,8 @@ Juned Shaikh
 - GitHub: https://github.com/Junedshaikh703
 
 ## Contributors
-- **Atharva Mohite**: Project Lead & System Design. Conceptualised the project, defined the architecture and pipeline, and planned the features.
-- **Juned Shaikh**: Implementation and original commits.
+
+| Name | GitHub | Role |
+|------|--------|------|
+| Atharva Mohite | [@MOHITEhere](https://github.com/MOHITEhere) | Project Lead & System Design. Defined the architecture and pipeline, planned the features |
+| Juned Shaikh | [@Junedshaikh703](https://github.com/Junedshaikh703) | Implementation and original commits |
